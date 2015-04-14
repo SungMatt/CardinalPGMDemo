@@ -50,3 +50,61 @@
 [21:44:30] [Server thread/INFO]: [SungMatt: Given [Stone] * 1 to SungMatt][m
 [21:44:38] [Server thread/INFO]: SungMatt issued server command: /minecraft:give SungMatt stone
 [21:44:38] [Server thread/INFO]: [SungMatt: Given [Stone] * 1 to SungMatt][m
+[21:45:23] [Server thread/INFO]: SungMatt lost connection: Disconnected
+[21:45:23] [Server thread/INFO]: §e§b§6❖§bSungMatt§e left the game
+[21:45:28] [Server thread/INFO]: [0;36;1mTime Remaining: [0;32;1m04:00[m
+[21:45:30] [Server thread/INFO]: §e§b§6❖§bSungMatt§e joined the game
+[21:45:30] [Server thread/INFO]: SungMatt[/127.0.0.1:52476] logged in with entity id 184 at ([matches/2599b50f-d7bc-4204-8680-b7b751533931] -8.8, 24.5, -17.0)
+[21:45:50] [Server thread/INFO]: SungMatt issued server command: /end
+[21:45:50] [Server thread/INFO]: [0;35;22m# # # # # # # # # # # #[m
+[21:45:50] [Server thread/INFO]: [0;35;22m# #    [0;33;22mGame over![0;35;22m    # #[m
+[21:45:50] [Server thread/INFO]: [0;35;22m# # # # # # # # # # # #[m
+[21:45:51] [Server thread/INFO]: [0;33;22mUploading match report...[m
+[21:45:54] [Server thread/INFO]: [0;32;1mMatch report successfully uploaded! You can view it at http://m.twizmwaz.in/2599b5.html[m
+[21:45:56] [Server thread/INFO]: SungMatt issued server command: /cycle 0
+[21:45:56] [Server thread/INFO]: Preparing start region for level 4 (Seed: 4530868326239037101)
+[21:45:58] [Server thread/INFO]: Preparing spawn area for matches/8b488a7e-aa07-41bb-b008-9e927b3ce808, 48%
+[21:45:59] [Server thread/INFO]: [CardinalPGM] 88 modules loaded.
+[21:45:59] [Server thread/INFO]: [0;36;22mCycled to [0;36;1mDust[m
+[21:46:05] [Server thread/INFO]: SungMatt issued server command: /start
+[21:46:05] [Server thread/INFO]: [0;32;1mMatch starting in [0;31;22m30[0;32;1m seconds[m
+[21:46:07] [Server thread/INFO]: SungMatt issued server command: /start 0
+[21:46:07] [Server thread/INFO]: [0;32;1mThe match has started![m
+[21:46:07] [Server thread/INFO]: [0;35;22m# # # # # # # # # # # # # # # #[m
+[21:46:07] [Server thread/INFO]: [0;35;22m# # [0;33;22mThe match has started![0;35;22m # #[m
+[21:46:07] [Server thread/INFO]: [0;35;22m# # # # # # # # # # # # # # # #[m
+[21:46:07] [Server thread/INFO]: [0;36;1mTime Remaining: [0;32;1m05:00[m
+[21:46:11] [Server thread/INFO]: SungMatt issued server command: /match
+[21:46:18] [Server thread/INFO]: SungMatt issued server command: /give SungMatt stone
+[21:46:18] [Server thread/INFO]: [SungMatt: Given [Stone] * 1 to SungMatt][m
+[21:46:40] [Server thread/INFO]: SungMatt issued server command: /minecraft:give SungMatt stone
+[21:46:40] [Server thread/INFO]: [SungMatt: Given [Stone] * 1 to SungMatt][m
+[21:46:46] [Server thread/INFO]: SungMatt issued server command: /minecraft:give SungMatt stone
+[21:46:46] [Server thread/INFO]: [SungMatt: Given [Stone] * 1 to SungMatt][m
+[21:47:04] [Server thread/INFO]: SungMatt issued server command: /minecraft:give SungMatt minecraft:potion 1 16421
+[21:47:04] [Server thread/INFO]: [SungMatt: Given [Splash Potion of Healing] * 1 to SungMatt][m
+[21:47:07] [Server thread/INFO]: [0;36;1mTime Remaining: [0;32;1m04:00[m
+[21:47:32] [Server thread/INFO]: SungMatt issued server command: /minecraft:give SungMatt minecraft:potion 1 16421 {CustomPotionEffects:[1:{id:6,Amplifier:6}]}
+[21:47:32] [Server thread/INFO]: [SungMatt: Given [Fancy Potion] * 1 to SungMatt][m
+[21:47:32] [Server thread/INFO]: SungMatt lost connection: Internal Exception: io.netty.handler.codec.DecoderException: java.lang.IllegalArgumentException: effect type cannot be null
+[21:47:32] [Server thread/INFO]: §e§b§6❖§bSungMatt§e left the game
+[21:48:07] [Server thread/INFO]: [0;36;1mTime Remaining: [0;32;1m03:00[m
+[21:48:19] [Server thread/INFO]: §e§b§6❖§bSungMatt§e joined the game
+[21:48:19] [Server thread/INFO]: SungMatt[/127.0.0.1:52518] logged in with entity id 190 at ([matches/8b488a7e-aa07-41bb-b008-9e927b3ce808] -11.4, 24.5, -19.3)
+[21:48:56] [Server thread/INFO]: SungMatt issued server command: /minecraft:give SungMatt potion 1 16421 {CustomPotionEffects:[1:{Id:6,Amplifier:6,Duration:6}]}
+[21:48:56] [Server thread/INFO]: [SungMatt: Given [Splash Potion of Healing] * 1 to SungMatt][m
+[21:49:07] [Server thread/INFO]: [0;36;1mTime Remaining: [0;32;1m02:00[m
+[21:50:07] [Server thread/INFO]: [0;36;1mTime Remaining: [0;33;1m01:00[m
+[21:50:10] [Server thread/INFO]: SungMatt issued server command: /stop
+[21:50:10] [Server thread/INFO]: [SungMatt: Stopping the server][m
+[21:50:10] [Server thread/INFO]: Stopping server
+[21:50:10] [Server thread/INFO]: [CardinalPGM] Disabling Cardinal v1.0-SNAPSHOT-git-CardinalPGM-18a0ea8
+[21:50:10] [Server thread/INFO]: Saving players
+[21:50:10] [Server thread/INFO]: SungMatt lost connection: Server closed
+[21:50:10] [Server thread/INFO]: SungMatt left the game.[m
+[21:50:10] [Server thread/INFO]: Saving worlds
+[21:50:10] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[21:50:10] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[21:50:10] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[21:50:10] [Server thread/INFO]: Saving chunks for level 'matches/8b488a7e-aa07-41bb-b008-9e927b3ce808'/Overworld
+[21:50:10] [Thread-4/INFO]: Stopping server
