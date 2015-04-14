@@ -1,11 +1,11 @@
 repo: maps
 rotation: rotation.txt
 deleteMatches: true
-displayMapLoadErrors: true
+displayMapLoadErrors: false
 custom-motd: true
 worldEditPermissions: true
-server-message: Matt's Scrimm Server
-cycle: 30
+server-message: Scrimmage Server
+cycle: -1
 matchTimeMillis: true
 observers-ready: true
 html:
@@ -18,13 +18,18 @@ permissions:
     - cardinal.chat.team
   Moderator:
     permissions:
+    - cardinal.say
+    - cardinal.broadcast
     - cardinal.mod
     - tnt.defuse
     - cardinal.cancel
     - cardinal.chat.admin
     - cardinal.match.setnext
+    - cardinal.match.end
+    - cardinal.match.start
     - cardinal.match.cycle
     - cardinal.team.force
+    - cardinal.team.alias
     - cardinal.teleport
     - whitelist.reload
     - whitelist.toggle
@@ -35,17 +40,12 @@ permissions:
     - whitelist.remove
     - whitelist.list
     - whitelist.team
-    - whielist.kick
+    - whitelist.kick
     - cardinal.punish.warn
     - cardinal.punish.kick
     - cardinal.punish.ban
     - cardinal.punish.mute
-    players:
-    - ca2306d1-1198-4d46-8c44-a82f5b3c8a4e
-    - da03e036-0050-4c26-a1d6-0aa98a683b56
-    - 119e4ad6-a61f-4c84-a000-459c71b6e6a4
-    - bfe1b340-1f73-4571-8043-eb8ee73f05ab
-    - 8b581c23-b00b-4343-9cbe-05d48f0702d7
+    - minecraft.command.pardon
 settings:
 - Blood
 - DeathMessages
@@ -56,6 +56,7 @@ settings:
 - PrivateMessages
 - Scoreboard
 - Sounds
+- Stats
 setting:
   Blood:
     values:
@@ -120,4 +121,3 @@ setting:
     - 'off'
     - on[default]
     description: See your statistics at the end of the game
-broadcastStats: true
